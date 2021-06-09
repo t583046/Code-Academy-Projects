@@ -1,3 +1,5 @@
+/*
+
 //Dog years assignment
 // With your knowledge of math operators and variables, use JavaScript to convert your human age into dog years.
 
@@ -35,3 +37,4 @@ myName = myName.toLowerCase();
 //printing my name and age in dog years
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.\n\n`);
 
+*/
